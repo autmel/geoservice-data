@@ -22,8 +22,8 @@
     {"surface": ">45 <=200", "habitants": 11123, "annee": "2019", "barColor": "#1a9900"}
 ],
 "seuils": [
-    {"surface": "<10>", "habitants": 158982, "ratio":"75,5 %", "annee": "2019", "barColor": "#7b7b7b"},
-    {"surface": ">=10 <12", "habitants": 4904, "ratio":"2,3 %", "annee": "2019", "barColor": "#9ee88f"},
-    {"surface": ">=12", "habitants": 46682, "ratio":"22,2 %", "annee": "2019", "barColor": "#1a9900"},
+    {"surface": "<10 m²/h", "habitants": 158982, "ratio":"75,5 %", "annee": "2019", "barColor": "#7b7b7b"},
+    {"surface": "10 <=  surface/habitant < 12 m²/h", "habitants": 4904, "ratio":"2,3 %", "annee": "2019", "barColor": "#9ee88f"},
+    {"surface": ">= 12 m²/h", "habitants": 46682, "ratio":"22,2 %", "annee": "2019", "barColor": "#1a9900"}
 ]
 }
